@@ -1,0 +1,17 @@
+{
+    "image": "HH44_CONFIG_XR_test20210401.24",
+    "model_sets": [
+        "HH44 Parent Model"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Boot Top",
+            "sub_material": "Paint Gloss White #2"
+        },
+        {
+            "base_material": "Hull Colour",
+            "sub_material": "Snow Storm_745630"
+        }
+    ],
+    "studio": "SUNNY STARBOARD"
+}
